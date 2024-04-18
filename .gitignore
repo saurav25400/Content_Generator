@@ -1,0 +1,4 @@
+#list of files ignored by git
+
+node_modules
+.env
